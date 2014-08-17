@@ -14,7 +14,7 @@ Getting Started :
     git clone https://github.com/munjeni/android_device_sony_pepper.git -b cm-11.0 pepper
     cd pepper
 
-Now connect your phone which have runing CM11 (latest Pepper) :
+Now connect your phone which have runing CM11 (or upload my cm11 build zip file and uncoment line in extract_files.sh) :
 
     ./extract-files.sh
     cd ../../..
